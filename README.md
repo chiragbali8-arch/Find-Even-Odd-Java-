@@ -30,4 +30,24 @@ break Statement
 # Sample Output
 
 Enter a number : 8
+
 8 is a even number
+
+If yoy want to exit enter quit , if you want to continue findeing even , odd  enter continue.
+
+continue
+
+Enter a number : 7
+
+7 is odd number \
+
+If yoy want to exit enter quit , if you want to continue findeing even , odd  enter continue.
+
+quit
+
+Thank You 
+
+# Autor
+
+Chirag Bali
+
